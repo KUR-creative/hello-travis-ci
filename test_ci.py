@@ -3,3 +3,4 @@ def test_tmp():
 
 def test_fail():
     assert 1 == 1
+    assert 2 == 2

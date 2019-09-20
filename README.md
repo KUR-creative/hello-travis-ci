@@ -6,3 +6,5 @@ HELL O TRAVIS-CI
 [![Build Status](https://travis-ci.org/KUR-creative/hello-travis-ci.svg?branch=dev)](https://travis-ci.org/KUR-creative/hello-travis-ci)
 
 굳?
+
+test

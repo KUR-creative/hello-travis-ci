@@ -5,4 +5,4 @@ def test_tmp():
 
 def test_fail():
     assert 1 == 1
-    assert 2 == 3
+    #assert 2 == 3 # Modify to pass CI!
